@@ -1,5 +1,5 @@
 # AssignmentOneCalculator
-
+#full marks
 This is a python assignment for the following problems:
 
 Part 1: 
